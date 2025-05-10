@@ -40,7 +40,9 @@ Client:
 ![Screenshot 2025-05-10 132821](https://github.com/user-attachments/assets/acffeb76-9014-4728-ac58-04aaeba23751)
 
 Server:
-![Screenshot 2025-05-10 132821](https://github.com/user-attachments/assets/c5566a2a-b17d-4eae-9374-155427797225)
+
+![Screenshot 2025-05-10 132831](https://github.com/user-attachments/assets/0d299208-94cc-4612-a93f-66c613489ed5)
+
 
 
 
